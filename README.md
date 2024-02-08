@@ -10,7 +10,7 @@ so far I've done
 ![C#] ![C] ![Java] ![NASM] ![Python]
 
 # Languages that are annoying
-Any language with a non-curly brace or non-semicolon syntax.
+Any language with a non-curly brace or non-semicolon syntax and any formating language such as CSS and HTML.
 
 [C#]: ./icons/csharp.webp
 [C]: ./icons/c.webp
