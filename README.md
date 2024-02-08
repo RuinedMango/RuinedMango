@@ -1,20 +1,12 @@
 # Im Ruinedmango ;)
 I make crappy projects and code like a 5-year-old.
-Half my projects are spaghetti code and the other half are unfinished games.
 
+Half of my projects are spaghetti code and the other half are unfinished games.
+# My goals
+My goal on GitHub is to try out all the hardest and most popular programming languages.
 
+so far I've done
 
-<!--
-**RuinedMango/RuinedMango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![C#]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[C#]: ./icons/c#.webp
