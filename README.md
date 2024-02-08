@@ -1,6 +1,7 @@
-###Im Ruinedmango
-I make crappy projects and code like a 5-year-old
+# Im Ruinedmango ;)
+I make crappy projects and code like a 5-year-old.
 Half my projects are spaghetti code and the other half are unfinished games.
+
 
 
 <!--
