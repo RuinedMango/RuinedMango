@@ -7,6 +7,13 @@ My goal on GitHub is to try out all the hardest and most popular programming lan
 
 so far I've done
 
-![C#]
+![C#] ![C] ![Java] ![NASM] ![Python]
 
-[C#]: ./icons/c#.webp
+# Languages that are annoying
+Any language with a non-curly brace or non-semicolon syntax.
+
+[C#]: ./icons/csharp.webp
+[C]: ./icons/c.webp
+[Java]: ./icons/java.webp
+[NASM]: ./icons/nasm.webp
+[Python]: ./icons/python.webp
