@@ -1,6 +1,6 @@
 [![Timezone](https://img.shields.io/badge/Timezone-Anchorage%20(UTC--9)-white?style=for-the-badge)][Anchorage]
 [![CSS](https://img.shields.io/badge/CSS-Would%20rather%20die-darkred?style=for-the-badge&logo=css3)][CSSuicide]
-[![Horny](https://img.shields.io/badge/Horny-Always-pink?style=for-the-badge)][ahegao]
+[![Goofy](https://img.shields.io/badge/Horny-Always-pink?style=for-the-badge)][ahegao]
 # Im Ruinedmango ;)
 I make crappy projects and code like a 5-year-old.
 
