@@ -8,13 +8,12 @@ Half of my projects are spaghetti code and the other half are unfinished games.
 # My goals
 My goal on GitHub is to try out all the hardest and most popular programming languages.
 
-so far I've done
+so far I've done (Many didn't have logos)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="/icons/zig-original.svg" alt="Zig" width="100" height="100"><img src="/icons/java-original.svg" alt="Java" width="100" height="100"><img src="/icons/go-original.svg" alt="Go" width="100" height="100"><img src="/icons/c-original.svg" alt="C" width="100" height="100"><img src="/icons/csharp-original.svg" alt="CSharp" width="100" height="100"><img src="/icons/html5-original.svg" alt="HTML" width="100" height="100"><img src="/icons/css3-original.svg" alt="CSS" width="100" height="100"><img src="/icons/php-original.svg" alt="PHP" width="100" height="100">
 
 # Languages that are annoying
 Any language with a non-curly brace or non-semicolon syntax and any formatting language such as CSS and HTML.
-
 
 [CSSuicide]: https://cdn.swisscows.com/image?url=https%3A%2F%2Fnews2-images.vice.com%2Fuploads%2F2017%2F08%2FScreen-Shot-2017-08-02-at-10.01.03-AM.png%3Fcrop%3D0.9918016396720656xw%3A1xh%3Bcenter%2Ccenter%26resize%3D1200%3A%2A
 [ahegao]: https://cdn.swisscows.com/image?url=https%3A%2F%2Fwww.pngitem.com%2Fpimgs%2Fm%2F506-5061129_i-made-a-transparent-ahegao-face-put-it.png
